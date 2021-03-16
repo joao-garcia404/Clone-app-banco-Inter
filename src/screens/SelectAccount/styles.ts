@@ -64,6 +64,7 @@ export const Footer = styled.View`
 
   flex-direction: row;
   justify-content: space-between;
+  align-items: center;
 `;
 
 export const ISafe = styled.View`
@@ -72,8 +73,8 @@ export const ISafe = styled.View`
 `;
 
 export const ISafeImage = styled.Image`
-  width: 30px;
-  height: 30px;
+  width: 20px;
+  height: 20px;
 `;
 
 export const ISafeText = styled.Text`
