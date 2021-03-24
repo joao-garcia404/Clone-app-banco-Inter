@@ -2,7 +2,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Logo-banco-inter.svg" width="400px"/>
 </h1>
 
-<h1 align="center">Clone banco Inter app</h1>
+<h1 align="center">Clone bank Inter app</h1>
 
 ## About the project
 
