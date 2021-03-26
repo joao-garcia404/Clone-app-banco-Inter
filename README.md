@@ -26,6 +26,9 @@ Techs that I've used to develop this project
 #### Dashboard
 <img src="https://i.imgur.com/xWDU3L4.png" />
 
+#### Profile
+<img src="https://i.imgur.com/louhZKR.png" />
+
 ## 💻 Getting started
 
 #### Clone the project and access the folder 
